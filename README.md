@@ -28,7 +28,6 @@ By [蔡嘉平]（本社群的老大）：
 * [加入 Slack 頻道](https://opensource4you.tw/slack/join)
 * [Facebook 粉絲團](http://opensource4you.tw/readme/facebook)
 * [Google 行事曆訂閱](http://opensource4you.tw/readme/calendar)
-* [一些 Q&A](https://www.facebook.com/share/p/HWonrVV4eX3bE1za/)
 
 ## 比較熱鬧的專案
 
