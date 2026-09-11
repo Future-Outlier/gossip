@@ -22,6 +22,7 @@ By [蔡嘉平]（本社群的老大）：
 * [創辦社群的心得文](https://www.facebook.com/share/p/15yTJm1JLd/)
 * [貢獻開源專案應有的心態](./articles/mindset-path-to-committer/README.md)
 * [參與開源社群應有的心態](./articles/mindset-community-etiquette/README.md)
+* [使用 AI 工具時如何維持貢獻品質](./articles/mindset-ai-assisted-contribution/README.md)
 * [開源貢獻新手指南](https://chishengliu.com/zh-tw/series/%E9%96%8B%E6%BA%90%E8%B2%A2%E7%8D%BB%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/)
 
 ## 快速入口
